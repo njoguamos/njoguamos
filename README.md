@@ -1,10 +1,15 @@
 
 ## Hey, I'm Amos Njogu! 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/njoguamo)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/njoguamos)
+
+
 ### I'm a freelance Laravel web developer from Nairobi, Kenya.
 - I build systems and websites for small businesses using Laravel.
 - I'm open to collaborating on other Laravel projects.
 - I currently have 5 Laravel packages that are being used by other developers.
+- I have contributed to [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Anjoguamos), some spatie packages and more.
 
 ---
 
@@ -37,13 +42,16 @@
 - [Mental Health Kenya](https://mentalhealthkenya.org?utm_source=GitHub) - Organisation for promotion and prevention of mental illnesses.
 
 ### My Tools
-- Operating System: MacOS
-- Code Editor: PhpStorm and VS Code
-- Prototype: [Figma](https://www.figma.com/) and [Balsamiq](https://balsamiq.com/)
-- Terminal: Ward with Oh My Zsh (PowerLevel10k)
+- **Operating System**: MacOS
+- **Code Editor**: PhpStorm and VS Code
+- **Prototype**: Figma and Balsamiq
+- **Database GUI**: Table Plus
+- **Terminal**: Warp with Oh My Zsh (PowerLevel10k)
 
 <br />
 
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoguamos&count_private=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=njoguamos)](https://git.io/streak-stats)
