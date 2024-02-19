@@ -4,7 +4,7 @@
 Here is [my portfolio](https://njoguamos.me.ke)
 
 
-### I'm a freelance Laravel web developer from Nairobi, Kenya.
+### I'm a web developer from Nairobi, Kenya.
 - I build systems and websites for small businesses using Laravel and Qwik.
 - I'm open to collaborating on other projects.
 - I currently have 5 Laravel packages that other developers are using.
