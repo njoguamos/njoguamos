@@ -37,9 +37,10 @@ Here is [my portfolio](https://njoguamos.me.ke)
 
 
 ### My Recent Projects
+- [Afri Gadget Hub](https://afrigadgethub.com?utm_source=GitHub) - Tech gadget e-commerce platform.
 - [Dealers Yard](https://dealersyard.com?utm_source=GitHub) - Platform for vehicle dealers in Kenya.
 - [Upturn Farming](https://upturnfarming.com?utm_source=GitHub) - Crop production and marketing organisation.
-- [Mental Health Kenya](https://mentalhealthkenya.org?utm_source=GitHub) - Organisation for promotion and prevention of mental illnesses.
+- [Mental Health Kenya](https://mentalhealthkenya.org?utm_source=GitHub) - Organisation for promoting and preventing mental illnesses.
 
 ### My Tools
 - **Operating System**: MacOS
