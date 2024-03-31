@@ -32,7 +32,7 @@ Here is [my portfolio](https://njoguamos.me.ke)
 - [Cloudflare Turnstile Wrapper](https://github.com/njoguamos/laravel-turnstile)
 - [Laravel Zoho OAuth](https://github.com/njoguamos/laravel-zoho-oauth)
 - [Kenya Mobile validator](https://github.com/njoguamos/laravel-kenya-mobile)
-- [Laravel Cashapp](https://github.com/njoguamos/laravel-cashapp)
+- [Laravel Cashapp](https://github.com/njoguamos/laravel-cashapp) (On Going)
 - [And contributed on others](https://github.com/njoguamos?tab=repositories)
 
 
