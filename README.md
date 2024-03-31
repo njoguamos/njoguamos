@@ -26,11 +26,13 @@ Here is [my portfolio](https://njoguamos.me.ke)
 <br />
 
 ### My Open Source Projects
+- [Laravel Pesapal](https://github.com/njoguamos/laravel-pesapal)
 - [Laravel Plausible](https://github.com/njoguamos/laravel-plausible)
 - [Laravel Jenga API](https://github.com/njoguamos/laravel-jenga)
 - [Cloudflare Turnstile Wrapper](https://github.com/njoguamos/laravel-turnstile)
 - [Laravel Zoho OAuth](https://github.com/njoguamos/laravel-zoho-oauth)
 - [Kenya Mobile validator](https://github.com/njoguamos/laravel-kenya-mobile)
+- [Laravel Cashapp](https://github.com/njoguamos/laravel-cashapp)
 - [And contributed on others](https://github.com/njoguamos?tab=repositories)
 
 
