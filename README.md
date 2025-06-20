@@ -5,10 +5,13 @@ Here is [my portfolio](https://njoguamos.me.ke)
 
 
 ### I'm a web developer from Nairobi, Kenya.
-- I build systems and websites for small businesses using Laravel and Qwik.
-- I'm open to collaborating on other projects.
-- I currently have 5 Laravel packages that other developers are using.
-- I have contributed to [Laravel Docs](https://github.com/laravel/docs/pulls?q=is%3Amerged+is%3Apr+author%3Anjoguamos), some spatie packages and more.
+I'm Amos Njogu, a full-stack developer based in Nairobi, Kenya.
+
+I have seven years of experience developing secure, functional, well-tested, accessible, user-friendly, and maintainable web applications. I focus on building scalable and user-friendly applications. I am motivated by new challenges and enjoy helping others solve their problems.
+
+Whether I am working independently or as part of a team, I always pay attention to detail, deliver outstanding results, and keep all stakeholders informed.x I enjoy using the Laravel PHP framework to develop full-stack applications and designing creative graphics.
+
+Do you have a project or an idea? Let's talk.
 
 ---
 
@@ -20,7 +23,6 @@ Here is [my portfolio](https://njoguamos.me.ke)
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
@@ -38,18 +40,6 @@ Here is [my portfolio](https://njoguamos.me.ke)
 ### My Recent Projects
 - [Afri Gadget Hub](https://afrigadgethub.com?utm_source=GitHub) - Tech gadget e-commerce platform.
 - [Dealers Yard](https://dealersyard.com?utm_source=GitHub) - Platform for vehicle dealers in Kenya.
-- [Upturn Farming](https://upturnfarming.com?utm_source=GitHub) - Crop production and marketing organisation.
-- [Mental Health Kenya](https://mentalhealthkenya.org?utm_source=GitHub) - Organisation for promoting and preventing mental illnesses.
-
-### My Tools
-- **Operating System**: MacOS
-- **Code Editor**: PhpStorm, WebStorm and VS Code
-- **Prototype**: Figma
-- **Database GUI**: Table Plus
-- **Terminal**: Warp with Oh My Zsh (PowerLevel10k)
-- **Theme**: GitHub Light
-
-<br />
 
 ---
 
