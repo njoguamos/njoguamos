@@ -31,4 +31,4 @@ Here is [link to my portfolio](https://njoguamos.me.ke)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=njoguamos)](https://git.io/streak-stats)
 
-![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
