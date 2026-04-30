@@ -26,21 +26,9 @@ Here is [link to my portfolio](https://njoguamos.me.ke)
 
 <br />
 
-### My Open Source Projects
-- [Laravel Pesapal](https://github.com/njoguamos/laravel-pesapal)
-- [Laravel Plausible](https://github.com/njoguamos/laravel-plausible)
-- [Laravel Jenga API](https://github.com/njoguamos/laravel-jenga)
-- [Cloudflare Turnstile Wrapper](https://github.com/njoguamos/laravel-turnstile)
-- [Laravel Zoho OAuth](https://github.com/njoguamos/laravel-zoho-oauth)
-- [Kenya Mobile validator](https://github.com/njoguamos/laravel-kenya-mobile)
-- [And contributed on others](https://github.com/njoguamos?tab=repositories)
-
-
-### My Recent Projects
-- [Afri Gadget Hub](https://afrigadgethub.com?utm_source=GitHub) - Tech gadget e-commerce platform.
-- [Dealers Yard](https://dealersyard.com?utm_source=GitHub) - Platform for vehicle dealers in Kenya.
-
 ---
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=njoguamos)](https://git.io/streak-stats)
+
+![Stats](./profile/stats.svg)
